@@ -17,8 +17,9 @@ I'm a Systems Admininstrator with a focus on DevOps!
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" height="30"/></a>&nbsp;
 </p>
 
-## About Me
-- 🌱 I’m currently learning Cloud computing 
+## 💬 About Me
+- 🌱 I’m currently fine tuning my Cloud computing knowledge
+- 🔭 Linux is my daily driver & my projects hub
 - ⚡ Fun fact: I enjoy building PCs
 
 ## 📲 Connect with Me

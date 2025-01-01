@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋, I'm Adekojo Abimbola.</h1>
-<h3 align="center">I'm a systems administrator with a focus on DevOps!</h3>
+<h3 align="center">I'm a Systems Admininstrator with a focus on DevOps!</h3>
 
 ## 🧰 Languages and Tools:
 <p align="left">

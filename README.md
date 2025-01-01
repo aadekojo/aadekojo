@@ -19,7 +19,6 @@
 </p>
 
 ## About Me
----
 - 🌱 I’m currently learning Cloud computing 
 - ⚡ Fun fact: I enjoy building PCs
 
